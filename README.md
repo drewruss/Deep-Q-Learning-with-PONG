@@ -28,7 +28,7 @@ In order to achieve the balance between exploration and exploitation we can use 
 
 ## Monte Carlo Methods
 
- 	I will not go too deep into Monte Carlo methods, but for this reinforcement learning case it is necessary.  The agent needs to take samples of its memory in minibatches in order to record expected rewards from certain state-action pairs.  Monte Carlo methods are used often in reinforcement learning algorithms to obtain expected values.  They are methods which use repeated random sampling in order to achieve a result [3].  We make sure that each sample we take is random, so the entire scope of agent memory is covered.
+I will not go too deep into Monte Carlo methods, but for this reinforcement learning case it is necessary.  The agent needs to take samples of its memory in minibatches in order to record expected rewards from certain state-action pairs.  Monte Carlo methods are used often in reinforcement learning algorithms to obtain expected values.  They are methods which use repeated random sampling in order to achieve a result [3].  We make sure that each sample we take is random, so the entire scope of agent memory is covered.
 
 ## Object Oriented Programming
 
